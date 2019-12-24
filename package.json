@@ -2,7 +2,7 @@
   "name": "anonActiVoteAPI",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js", 
+  "main": "server.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -12,7 +12,7 @@
   "dependencies": {
     "bcrypt": "^3.0.4",
     "body-parser": "^1.18.3",
-    "clarifai": "^2.9.0",
+    "clarifai": "^2.9.1",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "knex": "^0.16.3",
